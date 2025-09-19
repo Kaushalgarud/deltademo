@@ -1,2 +1,0 @@
-# deltademo
-this is demo 
